@@ -1,15 +1,26 @@
-# frt1:Future ready talent project by Sachin Chahal.
+## frt1:Future ready talent project by Sachin Chahal.
 Here i create a fashion store web apps named dress-up that helps the customer to find good products in cheap rates and genuine product.
 
 ## my website link:https://zealous-stone-065883c10.1.azurestaticapps.net
 
-![Screenshot (4)](https://user-images.githubusercontent.com/59883123/172848393-53735e2b-abf4-4ad9-80e2-702ab03afedb.png)
-![Screenshot (5)](https://user-images.githubusercontent.com/59883123/172848407-3e485651-2853-4ec1-92b4-735e977b8a41.png)
-![Screenshot (8)](https://user-images.githubusercontent.com/59883123/172848412-d8f2c157-e7ae-43d5-9b8f-a9148e121bc3.png)
-![Screenshot (9)](https://user-images.githubusercontent.com/59883123/172848414-ba764a24-6dd6-4141-97c7-32572be83f13.png)
-![Screenshot (10)](https://user-images.githubusercontent.com/59883123/172848416-bcc20671-48f9-4819-aa94-c56ec15f9c74.png)
-![Screenshot (11)](https://user-images.githubusercontent.com/59883123/172848423-cdf5ce1f-3ad3-4471-a436-fd1c46f85269.png)
-![Screenshot (12)](https://user-images.githubusercontent.com/59883123/172848425-3477a474-f544-465f-a341-7f15cb658ee0.png)
+## Home Page
+![Screenshot (4)](https://user-images.githubusercontent.com/59883123/172915721-1394e9bb-b8bf-4721-8c53-e8da13c3d1d2.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/59883123/172915733-19f4e67d-1b21-431f-8ded-038fe96f7fc3.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/59883123/172915736-d7e3e109-da96-43b8-a07b-fba7d1483c8d.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/59883123/172915737-2a6d526f-eadf-422c-aff4-f883f8169b9f.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/59883123/172915742-b955e75a-617d-4bc1-9e02-ff87f51b6881.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/59883123/172915743-fcfe2796-8802-4251-bf04-3aa43bf752ac.png)
+
+## About
+![Screenshot (10)](https://user-images.githubusercontent.com/59883123/172915932-e9739535-5afd-47a7-8edc-052b62240446.png)
+
+## Services
+![Screenshot (11)](https://user-images.githubusercontent.com/59883123/172916026-a732511b-d31c-4a65-9870-7632837ea03d.png)
+
+## Contact
+![Screenshot (12)](https://user-images.githubusercontent.com/59883123/172916097-2a893d65-2cd5-4138-8861-b7e393249138.png)
+
+
 
 # This is azure portal screen shot
 
