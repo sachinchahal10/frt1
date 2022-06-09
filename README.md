@@ -1,7 +1,7 @@
 # frt1:Future ready talent project by Sachin Chahal.
 Here i create a fashion store web apps named dress-up that helps the customer to find good products in cheap rates and genuine product.
 
-# my website link:https://zealous-stone-065883c10.1.azurestaticapps.net
+## my website link:https://zealous-stone-065883c10.1.azurestaticapps.net
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/59883123/172848393-53735e2b-abf4-4ad9-80e2-702ab03afedb.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/59883123/172848407-3e485651-2853-4ec1-92b4-735e977b8a41.png)
